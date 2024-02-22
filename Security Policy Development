@@ -1,0 +1,41 @@
+//This is my first try on a cybersecurity project, I'm trying to improve my portfolio so I'm starting with this
+
+Data Encryption Policy:
+
+All sensitive data stored on company devices or transmitted over the network must be encrypted using industry-standard encryption algorithms.
+Encryption should be applied to data at rest (stored data) and data in transit (data being transmitted over networks).
+Access Control Policy:
+
+Access to company systems, applications, and data should be restricted based on the principle of least privilege.
+User access rights should be reviewed regularly and adjusted as necessary based on job roles and responsibilities.
+Strong, unique passwords or passphrases must be enforced for all user accounts, and multi-factor authentication (MFA) should be implemented where feasible.
+Incident Response Policy:
+
+A formal incident response plan must be developed and maintained to address security incidents promptly and effectively.
+Employees must be trained on how to identify and report security incidents, including unauthorized access, data breaches, malware infections, and suspicious activities.
+The incident response plan should include procedures for containing, mitigating, and recovering from security incidents, as well as guidelines for communicating with stakeholders and regulatory authorities.
+Employee Training Policy:
+
+All employees must undergo regular cybersecurity awareness training to understand the importance of security practices and recognize potential threats.
+Training should cover topics such as phishing awareness, password security, social engineering, safe browsing habits, and incident reporting procedures.
+New employees should receive cybersecurity training as part of their onboarding process, and refresher training sessions should be conducted periodically.
+Data Backup and Recovery Policy:
+
+Regular data backups must be performed to ensure the availability and integrity of critical business data.
+Backup procedures should include regular automated backups of both onsite and offsite data storage locations.
+Data backup and recovery processes should be tested periodically to verify their effectiveness and identify any potential issues.
+Network Security Policy:
+
+All company networks must be protected by firewalls and intrusion detection/prevention systems to prevent unauthorized access and detect malicious activities.
+Wireless networks should be secured using strong encryption (e.g., WPA2/WPA3) and unique passwords or passphrases.
+Remote access to company networks and systems should be restricted and secured using VPN (Virtual Private Network) connections with strong authentication mechanisms.
+Software and Patch Management Policy:
+
+All software and operating systems used within the organization must be kept up to date with the latest security patches and updates.
+Regular vulnerability assessments and patch management procedures should be conducted to identify and remediate security vulnerabilities in a timely manner.
+Employees should be informed about the importance of applying software updates promptly and encouraged to report any software vulnerabilities or issues they encounter.
+Physical Security Policy:
+
+Physical access to company facilities, server rooms, and other sensitive areas must be restricted to authorized personnel only.
+Visitors should be required to sign in and be escorted while on premises, and access badges or keycards should be used to control access to secure areas.
+Security cameras and alarms should be installed to monitor and protect company assets, and regular security audits should be conducted to assess physical security controls.
